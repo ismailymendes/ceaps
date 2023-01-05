@@ -14,7 +14,7 @@
 
 ## Como rodar o projeto e fazer alterações:
 
-1. Abra o projeto no Google Colab por [esse link](https://colab.research.google.com/drive/1lY2apmN0bx-TUW2I-DyvoOkYCgnwUsli?usp=sharing)
+1. Abra o projeto no Google Colab por [esse link](https://colab.research.google.com/github/ismailymendes/ceaps/blob/main/ceaps.ipynb)
 2. Crie uma pasta chamada *data* e adicione os arquivos abaixo:  
    `despesa_ceaps_2018.csv`,  
    `despesa_ceaps_2019.csv`,  
