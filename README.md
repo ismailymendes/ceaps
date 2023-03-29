@@ -2,9 +2,10 @@
 
 # Análise das Cotas para Exercício da Atividade Parlamentar dos Senadores
 
-<div style="text-align: justify">A Cota para o Exercício da Atividade Parlamentar dos Senadores (CEAPS) é uma cota mensal destinada a custear as despesas do mandato, como passagens aéreas e contas de celular. A despesa realizada pelo Senador ou Senadora é ressarcida pelo Senado Federal, mediante comprovação e até o valor limite mensal estabelecido no prazo de 90 dias. O dinheiro que financia esse benefício é público, ou seja, vem dos impostos que cada cidadão paga, portanto é necessário fiscalizar o seu uso. A regularização das cotas ocorreu justamente depois do escândalo “farra das passagens”, que revelou o mau uso do benefício existente pelos parlamentares. Todos nós podemos (e devemos!) observar o que tem sido gasto na atividade parlamentar.
+<p align="justify">A Cota para o Exercício da Atividade Parlamentar dos Senadores (CEAPS) é uma cota mensal destinada a custear as despesas do mandato, como passagens aéreas e contas de celular. A despesa realizada pelo Senador ou Senadora é ressarcida pelo Senado Federal, mediante comprovação e até o valor limite mensal estabelecido no prazo de 90 dias. O dinheiro que financia esse benefício é público, ou seja, vem dos impostos que cada cidadão paga, portanto é necessário fiscalizar o seu uso. A regularização das cotas ocorreu justamente depois do escândalo “farra das passagens”, que revelou o mau uso do benefício existente pelos parlamentares. Todos nós podemos (e devemos!) observar o que tem sido gasto na atividade parlamentar.</p>
 
-Deste modo, este projeto tem o intuito de analisar as despesas dos senadores que atuaram entre 2018 e 2021 para obtermos uma ideia melhor de suas despesas e de como esta informação pode nos ajudar a fiscalizar os gastos dos senadores e possivelmente influenciar nossa decisão de voto para o ano de 2022.</div>
+<p align="justify">
+Deste modo, este projeto tem o intuito de analisar as despesas dos senadores que atuaram entre 2018 e 2021 para obtermos uma ideia melhor de suas despesas e de como esta informação pode nos ajudar a fiscalizar os gastos dos senadores e possivelmente influenciar nossa decisão de voto para o ano de 2022.</p>
 
 
 ## Tecnologias utilizadas:
