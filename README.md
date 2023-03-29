@@ -29,3 +29,8 @@
 7. Na importação o Power BI realiza a transformação dos campos para os tipos corretos automaticamente, porém deve-se alterar o tipo do campo "Valor Reembolsado"
 8. Clique em ***Transformar Dados***, apague o valor ***{"Valor Reembolsado", Int64.Type}***, clique com o botão direito no campo ***Valor Reembolsado***, ***Alterar tipo*** ***utilizando a localidade*** e selecione ***Número decimal*** e ***Inglês (Estados Unidos)***
 9.  Ou se preferir execute o arquivo ceaps_dashboard.pbix para visualizar o dashboard já montado
+
+## Dashboard:
+![My Image](docs/ceaps1.png)
+![My Image](docs/ceaps2.png)
+![My Image](docs/ceaps3.png)
