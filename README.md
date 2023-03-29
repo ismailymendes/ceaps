@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/autor-ismailymendes-red)](https://www.linkedin.com/in/ismailytm/) [![python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/downloads/release/python-3111/) ![pandas](https://img.shields.io/badge/pandas-1.5.2-blue) ![numpy](https://img.shields.io/badge/numpy-1.24.1-blue) ![matplotlib](https://img.shields.io/badge/matplotlib-3.6.2-blue)
+[![author](https://img.shields.io/badge/autor-ismailymendes-red)](https://www.linkedin.com/in/ismailytm/) [![python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/downloads/release/python-3111/) ![pandas](https://img.shields.io/badge/pandas-1.5.2-blue) ![numpy](https://img.shields.io/badge/numpy-1.24.1-blue) ![matplotlib](https://img.shields.io/badge/matplotlib-3.6.2-blue) ![powerbi](https://img.shields.io/badge/powerbi-2.112-yellow)
 
 # Análise das Cotas para Exercício da Atividade Parlamentar dos Senadores
 
